@@ -1,0 +1,97 @@
+Pohlepni
+
+Minimalni slabo povezani dominirajuci skup: {'4', '1', '11', '7'}
+Minimalni slabo povezani dominirajuci skup: 4
+--- 0.0009982585906982422 sekundi ---
+
+PuLP
+Odabrani: [3, 7, 11]
+Duzina: 3
+Infeasible
+--- 0.8034794330596924 sekundi ---
+
+
+Genetski nova verzija
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.1618797779083252 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['11', '3', '6', '9']
+Duzina 4
+--- 0.16043639183044434 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.15183448791503906 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['1', '5', '9', '12']
+Duzina 4
+--- 0.15644359588623047 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.13471436500549316 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '12']
+Duzina 3
+--- 0.11562490463256836 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.10863065719604492 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['2', '8', '5', '10']
+Duzina 4
+--- 0.14287328720092773 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '12']
+Duzina 3
+--- 0.10657691955566406 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '12']
+Duzina 3
+--- 0.11437416076660156 sekundi ---
+
+Genetski stara verzija
+1.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '12']
+Duzina 3
+--- 0.04445481300354004 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['1', '5', '9', '12']
+Duzina 4
+--- 0.027134180068969727 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.043734073638916016 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.030169248580932617 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['5', '9', '12', '1']
+Duzina 4
+--- 0.027940988540649414 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.039702415466308594 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '12']
+Duzina 3
+--- 0.030468463897705078 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.027539730072021484 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '12']
+Duzina 3
+--- 0.02706313133239746 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['3', '7', '10']
+Duzina 3
+--- 0.025336742401123047 sekundi ---

@@ -1,0 +1,92 @@
+Genetski nova verzija
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['87', '82', '13']
+Duzina 3
+--- 8.9815194606781 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['41', '87', '30']
+Duzina 3
+--- 7.776618719100952 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['4', '49']
+Duzina 2
+--- 5.362092018127441 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['41', '87', '30']
+Duzina 3
+--- 6.508075475692749 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['41', '87', '30']
+Duzina 3
+--- 7.278710126876831 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['87', '121', '85', '158']
+Duzina 4
+--- 13.438218355178833 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['87', '1']
+Duzina 2
+--- 2.8522207736968994 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['135', '16']
+Duzina 2
+--- 4.369847059249878 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['87', '85', '32']
+Duzina 3
+--- 7.785802602767944 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['41', '157', '132', '47']
+Duzina 4
+--- 11.96807336807251 sekundi ---
+
+
+GENETSKI stara verzija
+
+1.
+Minimalni slabo povezani dominirajuci skup: ['87', '8', '85']
+Duzina 3
+--- 2.055668354034424 sekundi ---
+2.
+Minimalni slabo povezani dominirajuci skup: ['6', '83']
+Duzina 2
+--- 2.6032373905181885 sekundi ---
+3.
+Minimalni slabo povezani dominirajuci skup: ['2', '49']
+Duzina 2
+--- 2.7939183712005615 sekundi ---
+4.
+Minimalni slabo povezani dominirajuci skup: ['87', '4']
+Duzina 2
+--- 2.5055272579193115 sekundi ---
+5.
+Minimalni slabo povezani dominirajuci skup: ['73', '30']
+Duzina 2
+--- 2.334125518798828 sekundi ---
+6.
+Minimalni slabo povezani dominirajuci skup: ['41', '99', '6']
+Duzina 3
+--- 2.015272378921509 sekundi ---
+7.
+Minimalni slabo povezani dominirajuci skup: ['14', '137']
+Duzina 2
+--- 2.114799976348877 sekundi ---
+8.
+Minimalni slabo povezani dominirajuci skup: ['87', '4']
+Duzina 2
+--- 2.5420045852661133 sekundi ---
+9.
+Minimalni slabo povezani dominirajuci skup: ['19', '85', '49']
+Duzina 3
+--- 2.5602378845214844 sekundi ---
+10.
+Minimalni slabo povezani dominirajuci skup: ['3', '49']
+Duzina 2
+--- 2.2767930030822754 sekundi ---
+
+--pohlepni
+Minimalni slabo povezani dominirajuci skup: {'5', '4', '3', '10', '139', '1', '2', '39', '32'}
+Minimalni slabo povezani dominirajuci skup: 9
+--- 0.11364960670471191 sekundi ---
+
