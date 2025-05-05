@@ -1,0 +1,61 @@
+Optimalni rešavajući skup (Prvi model): [3, 4, 24, 25, 27, 28] 6
+Vreme izvršavanja (Prvi model): 3.113604784011841 sekundi
+Optimalni rešavajući skup (Drugi model): [12, 18, 19, 20, 21, 23] 6
+Vreme izvršavanja (Drugi model): 6.609701871871948 sekundi
+
+VNS
+
+Najbolji rešavajući skup: {1, 2, 4, 11, 19, 20} 6
+Vrijeme  0.30748963356018066
+
+Iteracija 10, najbolji skup {1, 2, 4, 7, 11, 21}
+Najbolji rešavajući skup: {1, 2, 4, 7, 11, 21} 6
+Vrijeme  0.2842743396759033
+
+Iteracija 10, najbolji skup {1, 2, 5, 7, 11, 25}
+Najbolji rešavajući skup: {1, 2, 5, 7, 11, 25} 6
+Vrijeme  0.30589818954467773
+
+Najbolji rešavajući skup: {1, 3, 5, 7, 15, 21} 6
+Vrijeme  0.29054784774780273
+
+Najbolji rešavajući skup: {1, 2, 4, 10, 19, 22} 6
+Vrijeme  0.31871891021728516
+
+GA
+
+Optimalni rešavajući skup: {2, 5, 13, 15, 16, 17} 6
+Vrijeme  0.2769200801849365
+
+Generacija 10, Najbolji fitnes: 6
+
+Optimalni rešavajući skup: {11, 12, 14, 18, 21, 27} 6
+Vrijeme  0.27268123626708984
+
+Optimalni rešavajući skup: {3, 6, 12, 18, 20, 25} 6
+Vrijeme  0.26242923736572266
+
+Optimalni rešavajući skup: {4, 7, 12, 13, 17, 24} 6
+Vrijeme  0.2696259021759033
+
+Optimalni rešavajući skup: {1, 5, 18, 19, 26, 27} 6
+Vrijeme  0.27849698066711426
+
+ACO
+
+Iteracija 9, najbolji skup 6,  {11, 13, 14, 16, 17, 24}
+
+Optimalni rešavajući skup: {11, 13, 14, 16, 17, 24} velicine: 6
+Vrijeme  0.441540002822876
+
+Optimalni rešavajući skup: {4, 8, 11, 12, 17, 23} velicine: 6
+Vrijeme  0.43924403190612793
+
+Optimalni rešavajući skup: {7, 11, 12, 17, 22, 25} velicine: 6
+Vrijeme  0.4373176097869873
+
+Optimalni rešavajući skup: {1, 4, 10, 17, 18, 26} velicine: 6
+Vrijeme  0.4419877529144287
+
+Optimalni rešavajući skup: {1, 4, 12, 15, 19, 27} velicine: 6
+Vrijeme  0.44147801399230957

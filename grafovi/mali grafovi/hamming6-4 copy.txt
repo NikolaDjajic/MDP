@@ -1,0 +1,59 @@
+Pulp preko 10 min
+
+VNS 20 iter
+
+Najbolji rešavajući skup: {4, 37, 43, 14, 17, 58, 31} 7
+Vrijeme  5.420772552490234
+Najbolji rešavajući skup: {35, 38, 12, 13, 18, 23, 57} 7
+Vrijeme  6.221877574920654
+Najbolji rešavajući skup: {32, 34, 35, 4, 2, 3, 6, 12, 13, 18, 61, 20, 21, 56, 24, 29, 62, 63} 18
+Vrijeme  5.104890584945679
+Najbolji rešavajući skup: {33, 3, 4, 38, 39, 11, 12, 14, 49, 20, 58, 59, 29} 13
+Vrijeme  6.984842777252197
+Najbolji rešavajući skup: {36, 37, 10, 15, 17, 24, 59} 7
+Vrijeme  6.044183731079102
+
+
+GA stop=15, pop_size=50, crossover_rate=0.5, mutation_rate=0.1
+
+
+Optimalni rešavajući skup: {34, 39, 12, 45, 46, 17, 62, 59, 29, 30} 10
+Vrijeme  21.968801259994507
+
+Optimalni rešavajući skup: {32, 33, 34, 3, 8, 10, 16, 50, 21, 62} 10
+Vrijeme  24.745160818099976
+
+Optimalni rešavajući skup: {32, 36, 59, 10, 46, 54, 56, 26, 27, 31} 10
+Vrijeme  23.7687566280365
+
+Optimalni rešavajući skup: {32, 5, 40, 43, 50, 19, 61} 7
+Vrijeme  34.82818341255188
+
+Optimalni rešavajući skup: {1, 36, 39, 12, 46, 50, 22, 29} 8
+Vrijeme  38.423919439315796
+
+ACO
+
+# Parametri ACO algoritma
+
+num_ants = 100     # Broj mrava po iteraciji
+num_iterations = 20  # Broj iteracija
+alpha = 2.0
+beta = 1.0
+evaporation = 0.1
+Q = 100  # Konstanta za ažuriranje feromona
+
+Optimalni rešavajući skup: {34, 4, 7, 43, 14, 17, 56, 31} velicine: 8
+Vrijeme  13.309939861297607
+
+Optimalni rešavajući skup: {8, 41, 11, 12, 13, 46, 15, 17, 25, 28} velicine: 10
+Vrijeme  15.767319917678833
+
+Optimalni rešavajući skup: {32, 6, 45, 13, 46, 50, 53, 54, 58, 59} velicine: 10
+Vrijeme  15.238239526748657
+
+Optimalni rešavajući skup: {33, 7, 48, 50, 20, 22, 55, 54, 58} velicine: 9
+Vrijeme  14.086033821105957
+
+Optimalni rešavajući skup: {34, 3, 45, 47, 16, 21, 56, 28} velicine: 8
+Vrijeme  12.55477786064148
