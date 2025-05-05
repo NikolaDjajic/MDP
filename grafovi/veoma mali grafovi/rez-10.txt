@@ -1,97 +1,44 @@
-Pohlepni
+PULP
 
-Minimalni slabo povezani dominirajuci skup: {'4', '10', '9', '8', '6'}
-Minimalni slabo povezani dominirajuci skup: 5
---- 0.001003265380859375 sekundi ---
-
-PuLP
-Odabrani: [4, 7]
-Duzina: 2
-Infeasible
---- 0.205949068069458 sekundi ---
+Optimalni rešavajući skup (Prvi model): [2, 3, 8, 9] 4
+Vreme izvršavanja (Prvi model): 0.04585695266723633 sekundi
+Optimalni rešavajući skup (Drugi model): [1, 2, 8, 10] 4
+Vreme izvršavanja (Drugi model): 0.24441027641296387 sekundi
 
 
---GENETSKI NOVA VERZIJA
-1.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.1624772548675537 sekundi ---
-2.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.09958410263061523 sekundi ---
-3.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.08857870101928711 sekundi ---
-4.
-Minimalni slabo povezani dominirajuci skup: ['7', '4', '6']
-Duzina 3
---- 0.10449790954589844 sekundi ---
-5.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.09725379943847656 sekundi ---
-6.
-Minimalni slabo povezani dominirajuci skup: ['7', '4', '5']
-Duzina 3
---- 0.0957188606262207 sekundi ---
-7.
-Minimalni slabo povezani dominirajuci skup: ['7', '4', '6']
-Duzina 3
---- 0.0925455093383789 sekundi ---
-8.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.11554670333862305 sekundi ---
-9.
-Minimalni slabo povezani dominirajuci skup: ['7', '6', '4']
-Duzina 3
---- 0.08857893943786621 sekundi ---
-10.
-Minimalni slabo povezani dominirajuci skup: ['7', '4', '5']
-Duzina 3
---- 0.0855567455291748 sekundi ---
+VNS
 
-Genetski stara verzija
-1.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.042153120040893555 sekundi ---
-2.
-Minimalni slabo povezani dominirajuci skup: ['7', '6', '4']
-Duzina 3
---- 0.049306392669677734 sekundi ---
-3.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.03780865669250488 sekundi ---
-4.
-Minimalni slabo povezani dominirajuci skup: ['7', '4', '6']
-Duzina 3
---- 0.02658820152282715 sekundi ---
-5.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.025137901306152344 sekundi ---
-6.
-Minimalni slabo povezani dominirajuci skup: ['4', '5', '7']
-Duzina 3
---- 0.023151874542236328 sekundi ---
-7.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.02559185028076172 sekundi ---
-8.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.024059534072875977 sekundi ---
-9.
-Minimalni slabo povezani dominirajuci skup: ['7', '5', '4']
-Duzina 3
---- 0.027383089065551758 sekundi ---
-10.
-Minimalni slabo povezani dominirajuci skup: ['4', '5', '7']
-Duzina 3
---- 0.027563810348510742 sekundi ---
+Najbolji rešavajući skup: {8, 9, 2, 3} 4
+Vrijeme  0.06374382972717285
 
+Najbolji rešavajući skup: {8, 9, 2, 3} 4
+Vrijeme  0.06265497207641602
+
+Najbolji rešavajući skup: {8, 1, 3, 9} 4
+Vrijeme  0.06397151947021484
+
+Najbolji rešavajući skup: {8, 1, 3, 9} 4
+Vrijeme  0.061981916427612305
+
+Najbolji rešavajući skup: {8, 1, 2, 9} 4
+Vrijeme  0.07045841217041016
+
+GA
+
+Optimalni rešavajući skup: {8, 1, 3, 9} 4
+Vrijeme  0.0904836654663086
+
+Optimalni rešavajući skup: {8, 9, 2, 3} 4
+Vrijeme  0.10648393630981445
+
+Optimalni rešavajući skup: {8, 9, 2, 3} 4
+Vrijeme  0.09902310371398926
+
+Optimalni rešavajući skup: {8, 1, 3, 9} 4
+Vrijeme  0.12271308898925781
+
+Optimalni rešavajući skup: {8, 1, 2, 9} 4
+Vrijeme  0.10459685325622559
+
+ACO 
+LOSAK

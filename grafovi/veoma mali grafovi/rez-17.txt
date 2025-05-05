@@ -1,98 +1,43 @@
-Pohlepni 
+Optimalni rešavajući skup (Prvi model): [9, 17] 2
+Vreme izvršavanja (Prvi model): 0.07516598701477051 sekundi
+Optimalni rešavajući skup (Drugi model): [10, 8] 2
+Vreme izvršavanja (Drugi model): 0.8881309032440186 sekundi
 
-Minimalni slabo povezani dominirajuci skup: {'10', '9', '1', '7', '15', '8', '17'}
-Minimalni slabo povezani dominirajuci skup: 7
---- 0.0009989738464355469 sekundi ---
-
-PuLP
-Odabrani: [1, 10, 11, 12, 13]
-Duzina: 5
-Infeasible
---- 69.70787405967712 sekundi ---
-
-Genetski nova verzija
-
-1.
-Minimalni slabo povezani dominirajuci skup: ['14', '12', '15', '1', '13', '2', '3', '11']
-Duzina 8
---- 0.16428756713867188 sekundi ---
-2.
-Minimalni slabo povezani dominirajuci skup: ['7', '12', '15', '5', '13', '1', '10']
-Duzina 7
---- 0.3952453136444092 sekundi ---
-3.
-Minimalni slabo povezani dominirajuci skup: ['7', '12', '15', '1', '13', '17', '10']
-Duzina 7
---- 0.1831207275390625 sekundi ---
-4.
-Minimalni slabo povezani dominirajuci skup: ['8', '9', '16', '1', '13', '11', '10']
-Duzina 7
---- 0.1713578701019287 sekundi ---
-5.
-Minimalni slabo povezani dominirajuci skup: ['7', '9', '16', '12', '4', '1', '13', '10']
-Duzina 8
---- 0.2414705753326416 sekundi ---
-6.
-Minimalni slabo povezani dominirajuci skup: ['8', '14', '16', '1', '13', '11', '6']
-Duzina 7
---- 0.16277337074279785 sekundi ---
-7.
-Minimalni slabo povezani dominirajuci skup: ['7', '8', '14', '16', '1', '13', '10']
-Duzina 7
---- 0.22582745552062988 sekundi ---
-8.
-Minimalni slabo povezani dominirajuci skup: ['7', '8', '9', '16', '1', '17', '10']
-Duzina 7
---- 0.20008516311645508 sekundi ---
-9.
-Minimalni slabo povezani dominirajuci skup: ['1', '3', '8', '10', '12', '13', '14', '15']
-Duzina 8
---- 0.19163990020751953 sekundi ---
-10.
-Minimalni slabo povezani dominirajuci skup: ['1', '4', '6', '7', '12', '13', '14', '16']
-Duzina 8
---- 0.1811821460723877 sekundi ---
-
-Genetski stara verzija
-1.
-Minimalni slabo povezani dominirajuci skup: ['7', '8', '9', '14', '16', '1', '6']
-Duzina 7
---- 0.04422330856323242 sekundi ---
-2.
-Minimalni slabo povezani dominirajuci skup: ['7', '8', '14', '16', '9', '1', '10']
-Duzina 7
---- 0.03147482872009277 sekundi ---
-3.
-Minimalni slabo povezani dominirajuci skup: ['3', '4', '5', '6', '7', '8', '13', '15', '17']
-Duzina 9
---- 0.03017735481262207 sekundi ---
-4.
-Minimalni slabo povezani dominirajuci skup: ['8', '9', '12', '1', '13', '11', '3', '10']
-Duzina 8
---- 0.04314565658569336 sekundi ---
-5.
-Minimalni slabo povezani dominirajuci skup: ['8', '9', '16', '1', '13', '11', '10']
-Duzina 7
---- 0.036226749420166016 sekundi ---
-6.
-Minimalni slabo povezani dominirajuci skup: ['9', '12', '14', '15', '1', '11', '3', '6']
-Duzina 8
---- 0.03715991973876953 sekundi ---
-7.
-Minimalni slabo povezani dominirajuci skup: ['1', '5', '6', '8', '11', '12', '14', '16', '17']
-Duzina 9
---- 0.032103538513183594 sekundi ---
-8.
-Minimalni slabo povezani dominirajuci skup: ['7', '8', '9', '12', '16', '1', '17', '10']
-Duzina 8
---- 0.03166389465332031 sekundi ---
-9.
-Minimalni slabo povezani dominirajuci skup: ['1', '6', '7', '8', '9', '14', '16']
-Duzina 7
---- 0.02719259262084961 sekundi ---
-10.
-Minimalni slabo povezani dominirajuci skup: ['9', '12', '4', '5', '17', '3', '6', '11']
-Duzina 8
---- 0.03062891960144043 sekundi ---
+VNS
+Najbolji rešavajući skup: {5, 15} 2
+Vrijeme  0.19135570526123047
+Najbolji rešavajući skup: {16, 8, 13, 7} 4
+Vrijeme  0.15374469757080078
+Najbolji rešavajući skup: {5, 15} 2
+Vrijeme  0.14382529258728027
+Najbolji rešavajući skup: {17, 3, 1} 3
+Vrijeme  0.10943913459777832
+Najbolji rešavajući skup: {17, 5} 2
+Vrijeme  0.15777850151062012
 
 
+GA
+
+Optimalni rešavajući skup: {9, 14} 2
+Vrijeme  0.07974648475646973
+Optimalni rešavajući skup: {9, 14} 2
+Vrijeme  0.07864809036254883
+Optimalni rešavajući skup: {16, 13} 2
+Vrijeme  0.08162069320678711
+Optimalni rešavajući skup: {14, 15} 2
+Vrijeme  0.08021092414855957
+Optimalni rešavajući skup: {16, 9} 2
+Vrijeme  0.09112095832824707
+
+ACO
+
+Optimalni rešavajući skup: {5, 15} velicine: 2
+Vrijeme  0.06601691246032715
+Optimalni rešavajući skup: {16, 14} velicine: 2
+Vrijeme  0.06105160713195801
+Optimalni rešavajući skup: {8, 10} velicine: 2
+Vrijeme  0.06914424896240234
+Optimalni rešavajući skup: {10, 4, 5} velicine: 3
+Vrijeme  0.08807682991027832
+Optimalni rešavajući skup: {9, 17} velicine: 2
+Vrijeme  0.06800103187561035

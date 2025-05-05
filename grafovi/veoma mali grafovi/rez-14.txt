@@ -1,99 +1,53 @@
-Pohlepni
+Optimalni rešavajući skup (Prvi model): [5, 8, 9] 3
+Vreme izvršavanja (Prvi model): 0.050182342529296875 sekundi
+Optimalni rešavajući skup (Drugi model): [14, 10, 11] 3
+Vreme izvršavanja (Drugi model): 0.6942112445831299 sekundi
 
-Minimalni slabo povezani dominirajuci skup: {'9', '13', '2'}
-Minimalni slabo povezani dominirajuci skup: 3
---- 0.0015649795532226562 sekundi ---
+VNS
 
-PuLP
-Odabrani: [2, 9, 13]
-Duzina: 3
-Infeasible
---- 4.325328350067139 sekundi ---
+Najbolji rešavajući skup: {10, 4, 6} 3
+Vrijeme  0.06882691383361816
 
-Genetski nova verzija
+Najbolji rešavajući skup: {10, 13, 6} 3
+Vrijeme  0.06529545783996582
 
-1.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.18642020225524902 sekundi ---
-2.
-Minimalni slabo povezani dominirajuci skup: ['2', '6', '12', '13']
-Duzina 4
---- 0.14575934410095215 sekundi ---
-3.
-Minimalni slabo povezani dominirajuci skup: ['2', '11', '12', '13']
-Duzina 4
---- 0.14002370834350586 sekundi ---
-4.
-Minimalni slabo povezani dominirajuci skup: ['2', '11', '1', '10']
-Duzina 4
---- 0.2533576488494873 sekundi ---
-5.
-Minimalni slabo povezani dominirajuci skup: ['2', '13', '11', '10']
-Duzina 4
---- 0.15209317207336426 sekundi ---
-6.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.13152027130126953 sekundi ---
-7.
-Minimalni slabo povezani dominirajuci skup: ['2', '11', '12', '13']
-Duzina 4
---- 0.15258049964904785 sekundi ---
-8.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.13910651206970215 sekundi ---
-9.
-Minimalni slabo povezani dominirajuci skup: ['2', '8', '11', '13']
-Duzina 4
---- 0.19643139839172363 sekundi ---
-10.
-Minimalni slabo povezani dominirajuci skup: ['2', '10', '11', '13']
-Duzina 4
---- 0.19521880149841309 sekundi ---
+Najbolji rešavajući skup: {1, 5, 9} 3
+Vrijeme  0.07190251350402832
 
-Genetski stara verzija
-1.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.04513192176818848 sekundi ---
-2.
-Minimalni slabo povezani dominirajuci skup: ['2', '6', '12', '1']
-Duzina 4
---- 0.030305862426757812 sekundi ---
-3.
-Minimalni slabo povezani dominirajuci skup: ['2', '13', '12', '10']
-Duzina 4
---- 0.02989816665649414 sekundi ---
-4.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.029154062271118164 sekundi ---
-5.
-Minimalni slabo povezani dominirajuci skup: ['2', '12', '1', '10']
-Duzina 4
---- 0.03414630889892578 sekundi ---
-6.
-Minimalni slabo povezani dominirajuci skup: ['5', '6', '12', '1']
-Duzina 4
---- 0.03070211410522461 sekundi ---
-7.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.03433108329772949 sekundi ---
-8.
-Minimalni slabo povezani dominirajuci skup: ['2', '11', '1', '10']
-Duzina 4
---- 0.030586719512939453 sekundi ---
-9.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.03708815574645996 sekundi ---
-10.
-Minimalni slabo povezani dominirajuci skup: ['2', '9', '13']
-Duzina 3
---- 0.04582023620605469 sekundi ---
+Najbolji rešavajući skup: {5, 14, 7} 3
+Vrijeme  0.0617525577545166
 
+Najbolji rešavajući skup: {8, 9, 13} 3
+Vrijeme  0.05907130241394043
 
+GA
 
+Optimalni rešavajući skup: {8, 13, 6} 3
+Vrijeme  0.0588679313659668
+
+Optimalni rešavajući skup: {8, 1, 9} 3
+Vrijeme  0.06008458137512207
+
+Optimalni rešavajući skup: {13, 11, 5} 3
+Vrijeme  0.07210278511047363
+Optimalni rešavajući skup: {8, 11, 13} 3
+Vrijeme  0.06244468688964844
+Optimalni rešavajući skup: {8, 9, 5} 3
+Vrijeme  0.06700706481933594
+
+ACO
+
+Optimalni rešavajući skup: {8, 9, 13} velicine: 3
+Vrijeme  0.05583953857421875
+
+Optimalni rešavajući skup: {10, 13, 6} velicine: 3
+Vrijeme  0.06018495559692383
+
+Optimalni rešavajući skup: {1, 10, 6} velicine: 3
+Vrijeme  0.06472945213317871
+
+Optimalni rešavajući skup: {8, 1, 11} velicine: 3
+Vrijeme  0.06713390350341797
+
+Optimalni rešavajući skup: {1, 10, 6} velicine: 3
+Vrijeme  0.05619215965270996
