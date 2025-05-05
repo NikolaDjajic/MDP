@@ -1,0 +1,8 @@
+Graph with 401 nodes and 1505 edges
+Najbolji rešavajući skup: {90, 6, 71, 40, 122, 44, 77, 50, 84, 117, 56, 26, 92} 13
+Vrijeme  24.166512727737427
+
+
+GA 
+Generacija 32, Najbolji fitnes: 17
+Vrijeme 1:38.5 min

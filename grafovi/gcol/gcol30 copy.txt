@@ -1,0 +1,15 @@
+vns
+
+Najbolji rešavajući skup: {66, 5, 200, 9, 140, 45, 76, 79, 47, 241, 210, 54} 12
+Vrijeme  74.06445646286011
+
+Najbolji rešavajući skup: {163, 67, 70, 7, 74, 12, 45, 141, 240, 48, 148, 24} 12
+Vrijeme  105.06213307380676
+
+Najbolji rešavajući skup: {45, 238, 177, 50, 274, 16, 149, 118, 22, 184, 153, 53} 12
+Vrijeme  92.30173707008362
+
+GA
+
+Generacija 25, Najbolji fitnes: 14
+vrijeme: 3.55min

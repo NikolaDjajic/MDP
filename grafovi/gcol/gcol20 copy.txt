@@ -1,0 +1,7 @@
+vns
+Najbolji rešavajući skup: {98, 3, 5, 6, 8, 11, 17, 82, 85} 9
+Vrijeme  5.530512571334839
+
+GA 15 stop
+Optimalni rešavajući skup: {68, 37, 69, 39, 77, 19, 22, 55, 91, 92} 10
+Vrijeme  27.272887229919434

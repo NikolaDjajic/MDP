@@ -1,0 +1,7 @@
+vns
+Iteracija 6, najbolji skup {67, 69, 9, 10, 11, 201, 13, 43, 83, 22, 60, 222}  12
+vrijeme 63.3
+
+GA
+Generacija 22, Najbolji fitnes: 14
+3:34min

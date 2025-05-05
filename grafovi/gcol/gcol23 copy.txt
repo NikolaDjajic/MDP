@@ -1,0 +1,7 @@
+VNS
+160, 1, 68, 37, 6, 74, 142, 21, 54, 152, 282, 61]  12
+41.6
+
+GA
+Generacija 21, Najbolji fitnes: 15  
+vrijeme 2.36 min

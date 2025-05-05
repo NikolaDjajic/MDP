@@ -1,0 +1,16 @@
+GA
+
+Optimalni rešavajući skup: {6, 70, 75, 17, 49, 53, 55, 57, 28, 62} 10
+Vrijeme  24.908103704452515
+Optimalni rešavajući skup: {64, 72, 91, 43, 76, 78, 79, 26, 59, 62} 10
+Vrijeme  29.010744333267212
+Optimalni rešavajući skup: {64, 98, 35, 71, 85, 89, 91, 61, 95} 9
+Vrijeme  28.150912284851074
+
+vns
+Najbolji rešavajući skup: {3, 4, 68, 70, 7, 11, 13, 14, 54} 9
+Vrijeme  5.186161279678345
+Najbolji rešavajući skup: {2, 4, 5, 36, 7, 79, 19, 20, 22} 9
+Vrijeme  5.40080189704895
+Najbolji rešavajući skup: {38, 14, 81, 82, 19, 24, 25, 59, 28} 9
+Vrijeme  5.396110773086548

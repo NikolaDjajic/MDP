@@ -1,0 +1,7 @@
+Graph with 106 nodes and 722 edges
+Najbolji rešavajući skup: {1, 65, 35, 40, 75, 13, 14, 48, 17, 83, 52} 11
+Vrijeme  6.392670154571533
+
+GA 
+Optimalni rešavajući skup: {33, 66, 36, 71, 40, 73, 42, 76, 16, 48, 20, 91, 28, 30} 14
+Vrijeme  26.391189098358154

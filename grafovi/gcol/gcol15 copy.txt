@@ -1,0 +1,7 @@
+VNS
+
+Najbolji rešavajući skup: {33, 2, 66, 34, 6, 7, 9, 12, 87} 9
+Vrijeme  5.999469518661499
+
+Optimalni rešavajući skup: {89, 72, 46, 22, 86, 56, 25, 88, 63} 9
+Vrijeme  26.686711072921753

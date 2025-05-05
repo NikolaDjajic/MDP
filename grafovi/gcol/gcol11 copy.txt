@@ -1,0 +1,7 @@
+VNS
+Najbolji rešavajući skup: {34, 41, 12, 13, 47, 16, 17, 81, 23} 9
+Vrijeme  5.673964500427246
+
+GA
+Optimalni rešavajući skup: {97, 66, 35, 5, 39, 41, 44, 51, 87, 94} 10
+Vrijeme  27.018300771713257
