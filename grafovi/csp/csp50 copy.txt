@@ -5,3 +5,7 @@ Vrijeme  1.504638433456421
 GA
 Optimalni rešavajući skup: {2, 37, 6, 10, 42, 15, 48, 24, 27} 9
 Vrijeme  4.552144289016724
+
+
+ACO
+losak 45 odma skoro

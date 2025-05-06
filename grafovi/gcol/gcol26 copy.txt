@@ -4,3 +4,7 @@ Generacija 23, Najbolji fitnes: 14
 VNS
 Iteracija 7, najbolji skup {1, 2, 3, 4, 8, 233, 168, 107, 15, 276, 117, 21} 12
 Vrijeme: 54.3
+
+ACO 15 u prvoj
+Iteracija 6, najbolji skup 13,  {32, 33, 195, 103, 264, 138, 267, 300, 205, 245, 27, 253, 286}
+vrijeme:1.03min

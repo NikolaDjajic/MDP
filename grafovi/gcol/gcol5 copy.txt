@@ -15,3 +15,7 @@ Najbolji rešavajući skup: {2, 3, 5, 38, 41, 10, 49, 23, 60} 9
 Vrijeme  6.011632204055786
 Najbolji rešavajući skup: {4, 8, 75, 14, 48, 49, 84, 53, 56} 9
 Vrijeme  5.198507308959961
+
+ACO 10 iter
+Optimalni rešavajući skup: {5, 8, 43, 13, 47, 50, 52, 21, 88, 61} velicine: 10
+Vrijeme  9.12063980102539

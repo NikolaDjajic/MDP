@@ -5,3 +5,9 @@ VNS
 GA
 Generacija 21, Najbolji fitnes: 15  
 vrijeme 2.36 min
+
+
+ACO
+
+Iteracija 6, najbolji skup 13,  {225, 27, 235, 109, 173, 145, 20, 148, 119, 219, 92, 222, 63} 
+1:21min

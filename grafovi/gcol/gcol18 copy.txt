@@ -6,3 +6,8 @@ GA
 
 Optimalni rešavajući skup: {32, 33, 2, 99, 9, 82, 83, 23, 88, 29} 10
 Vrijeme  23.256601333618164
+
+
+ACO
+Optimalni rešavajući skup: {1, 2, 44, 78, 79, 80, 84, 54, 57, 63} velicine: 10
+Vrijeme  9.093209743499756

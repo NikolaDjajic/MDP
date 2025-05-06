@@ -5,3 +5,7 @@ Vrijeme  5.530512571334839
 GA 15 stop
 Optimalni rešavajući skup: {68, 37, 69, 39, 77, 19, 22, 55, 91, 92} 10
 Vrijeme  27.272887229919434
+
+ACO
+Optimalni rešavajući skup: {65, 4, 69, 7, 12, 45, 13, 20, 28, 29} velicine: 10
+Vrijeme  9.414635419845581

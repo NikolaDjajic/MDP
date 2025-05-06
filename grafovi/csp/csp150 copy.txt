@@ -6,3 +6,8 @@ Vrijeme  24.166512727737427
 GA 
 Generacija 32, Najbolji fitnes: 17
 Vrijeme 1:38.5 min
+
+ACO
+Iteracija 9, najbolji skup 19,  {25, 30, 37, 40, 43, 44, 48, 49, 60, 72, 73, 79, 83, 94, 95, 97, 108, 119, 122}
+
+59.3

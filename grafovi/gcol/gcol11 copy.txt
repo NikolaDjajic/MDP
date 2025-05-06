@@ -5,3 +5,7 @@ Vrijeme  5.673964500427246
 GA
 Optimalni rešavajući skup: {97, 66, 35, 5, 39, 41, 44, 51, 87, 94} 10
 Vrijeme  27.018300771713257
+
+ACO
+Iteracija 10, najbolji skup 10,  {33, 66, 6, 12, 21, 57, 90, 91, 63, 95}
+Vrijeme  13.38018250465393

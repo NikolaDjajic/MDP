@@ -13,3 +13,8 @@ GA
 
 Generacija 25, Najbolji fitnes: 14
 vrijeme: 3.55min
+
+
+ACO 14 u prvoj
+Iteracija 5, najbolji skup 13,  {64, 258, 3, 195, 101, 38, 175, 17, 241, 114, 82, 145, 122}
+vrijeme: 46.2
