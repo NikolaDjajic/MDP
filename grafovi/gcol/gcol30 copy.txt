@@ -18,3 +18,13 @@ vrijeme: 3.55min
 ACO 14 u prvoj
 Iteracija 5, najbolji skup 13,  {64, 258, 3, 195, 101, 38, 175, 17, 241, 114, 82, 145, 122}
 vrijeme: 46.2
+
+VNS
+
+Testing: {'kmin': 1, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+Pocetna  {160, 225, 97, 133, 233, 41, 80, 241, 146, 83, 179, 246, 22, 152, 153, 284, 29} {133, 80, 146, 83, 22, 152, 153, 284, 29, 160, 225, 97, 233, 41, 241, 179}
+Iteracija 1, najbolji skup {1, 2, 3, 4, 5, 233, 41, 268, 13, 20, 151, 62}
+Iteracija 2, najbolji skup {1, 2, 3, 4, 5, 233, 41, 268, 13, 20, 151, 62}
+Iteracija 3, najbolji skup {1, 2, 3, 4, 5, 233, 41, 268, 13, 20, 151, 62}
+🔁 Rezultat: 12 | ⏱️ Vrijeme: 17.30 sekundi
+

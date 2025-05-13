@@ -11,3 +11,21 @@ Vrijeme  26.686711072921753
 ACO
 Optimalni rešavajući skup: {4, 37, 43, 48, 82, 19, 86, 23, 88, 59} velicine: 10
 Vrijeme  8.883862257003784
+
+
+GA random
+✅ Najbolji rezultat: 10
+📌 Najbolji parametri: {'stop': 3, 'pop_size': 20, 'mutation_rate': 0.2, 'crossover_rate': 0.8, 'generations': 50}
+📌 Vrijeme: 3.5654988288879395
+
+ACO
+
+✅ Najbolji rezultat: 10
+📌 Najbolji parametri: {'alpha': 2, 'beta': 2, 'evaporation': 0.4, 'Q': 50, 'num_ants': 30, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 2.3790102005004883
+
+VNS
+
+✅ Najbolji rezultat: 9
+📌 Najbolji parametri: {'kmin': 1, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+📌 Vrijeme: 1.20977783203125

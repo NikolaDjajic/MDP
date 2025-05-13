@@ -11,3 +11,8 @@ ACO u prvoj sekundi nasao 14
 Iteracija 6, najbolji skup 13,  {161, 195, 100, 165, 7, 200, 12, 45, 177, 151, 284, 285, 191}
 1:28min
 
+VNS
+
+
+Iteracija 3, najbolji skup {66, 4, 228, 6, 103, 71, 9, 72, 140, 10, 75, 8}
+🔁 Rezultat: 12 | ⏱️ Vrijeme: 15.56 sekundi

@@ -49,3 +49,20 @@ Optimalni rešavajući skup: {33, 66, 65, 6, 14, 17, 51, 54, 25, 62, 57} velicin
 Vrijeme  15.31897497177124
 Optimalni rešavajući skup: {1, 3, 35, 37, 70, 39, 67, 68, 11, 49, 18, 53} velicine: 12
 Vrijeme  23.101104497909546
+
+
+ACO
+✅ Najbolji rezultat: 12
+📌 Najbolji parametri: {'alpha': 1, 'beta': 2, 'evaporation': 0.4, 'Q': 50, 'num_ants': 30, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 1.5580480098724365
+
+GA
+✅ Najbolji rezultat: 11
+📌 Najbolji parametri: {'stop': 5, 'pop_size': 40, 'mutation_rate': 0.2, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 14.745634317398071
+
+VNS
+
+✅ Najbolji rezultat: 10
+📌 Najbolji parametri: {'kmin': 1, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+📌 Vrijeme: 1.0372178554534912

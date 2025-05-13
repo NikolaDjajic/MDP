@@ -57,3 +57,21 @@ Vrijeme  14.086033821105957
 
 Optimalni rešavajući skup: {34, 3, 45, 47, 16, 21, 56, 28} velicine: 8
 Vrijeme  12.55477786064148
+
+
+ACO
+
+✅ Najbolji rezultat: 7
+📌 Najbolji parametri: {'alpha': 2, 'beta': 2, 'evaporation': 0.4, 'Q': 30, 'num_ants': 30, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 0.696326494216919
+
+GA random
+✅ Najbolji rezultat: 7
+📌 Najbolji parametri: {'stop': 3, 'pop_size': 40, 'mutation_rate': 0.2, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 11.004477262496948
+
+VNS
+✅ Najbolji rezultat: 7
+📌 Najbolji parametri: {'kmin': 2, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+📌 Vrijeme: 0.9665741920471191
+Output is truncated. View as a scrollable elem

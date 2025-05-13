@@ -10,3 +10,21 @@ Vrijeme  52.6687958240509
 ACO
 Optimalni rešavajući skup: {65, 100, 69, 5, 9, 137, 141, 78, 17, 49, 151, 157, 94, 127} velicine: 14
 Vrijeme  60.52980089187622
+
+
+GA
+
+✅ Najbolji rezultat: 15
+📌 Najbolji parametri: {'stop': 5, 'pop_size': 30, 'mutation_rate': 0.1, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 74.51930260658264
+ACO
+
+
+VNS
+
+Testing: {'kmin': 1, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+Pocetna  {65, 68, 133, 40, 41, 105, 171, 170, 139, 14, 72, 156, 50, 18, 87, 25, 58, 92} {65, 68, 133, 72, 139, 14, 18, 87, 25, 156, 92, 40, 41, 105, 171, 170, 50}
+Iteracija 1, najbolji skup {40, 41, 105, 171, 76, 170, 42, 44, 17, 83, 87, 56, 27}
+Iteracija 2, najbolji skup {100, 41, 170, 171, 42, 44, 80, 17, 115, 56, 89, 27, 29}
+Iteracija 3, najbolji skup {100, 41, 170, 171, 42, 44, 80, 17, 115, 56, 89, 27}
+🔁 Rezultat: 12 | ⏱️ Vrijeme: 3.98 sekundi

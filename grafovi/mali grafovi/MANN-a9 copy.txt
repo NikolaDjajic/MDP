@@ -57,3 +57,19 @@ Optimalni rešavajući skup: {33, 34, 5, 38, 7, 8, 40, 10, 11, 44, 13, 9, 17, 22
 Vrijeme  5.400676965713501
 Optimalni rešavajući skup: {1, 2, 3, 36, 37, 5, 6, 40, 10, 44, 15, 17, 18, 20, 23, 27, 29} velicine: 17
 Vrijeme  5.449939727783203
+
+ACO
+✅ Najbolji rezultat: 17
+📌 Najbolji parametri: {'alpha': 2, 'beta': 2, 'evaporation': 0.4, 'Q': 30, 'num_ants': 30, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 1.2667262554168701
+
+GA random
+
+✅ Najbolji rezultat: 16
+📌 Najbolji parametri: {'stop': 7, 'pop_size': 40, 'mutation_rate': 0.1, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 13.269877910614014
+
+VNS
+✅ Najbolji rezultat: 16
+📌 Najbolji parametri: {'kmin': 2, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+📌 Vrijeme: 0.8185360431671143

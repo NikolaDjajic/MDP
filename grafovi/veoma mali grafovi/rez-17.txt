@@ -41,3 +41,19 @@ Optimalni rešavajući skup: {10, 4, 5} velicine: 3
 Vrijeme  0.08807682991027832
 Optimalni rešavajući skup: {9, 17} velicine: 2
 Vrijeme  0.06800103187561035
+
+
+GA
+✅ Najbolji rezultat: 2
+📌 Najbolji parametri: {'stop': 5, 'pop_size': 10, 'mutation_rate': 0.3, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 0.0198056697845459
+
+ACO
+✅ Najbolji rezultat: 2
+📌 Najbolji parametri: {'alpha': 2, 'beta': 2, 'evaporation': 0.4, 'Q': 50, 'num_ants': 30, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 0.014541864395141602
+
+VNS
+✅ Najbolji rezultat: 3
+📌 Najbolji parametri: {'kmin': 2, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
+📌 Vrijeme: 0.03171515464782715

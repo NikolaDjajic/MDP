@@ -9,3 +9,20 @@ Vrijeme  26.391189098358154
 ACO
 Optimalni rešavajući skup: {1, 36, 37, 70, 6, 73, 45, 31, 48, 50, 83, 84, 24, 25, 58, 28, 57} velicine: 17
 Vrijeme  58.55062127113342
+
+
+GA rand
+✅ Najbolji rezultat: 15
+📌 Najbolji parametri: {'stop': 7, 'pop_size': 30, 'mutation_rate': 0.1, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 45.39058566093445
+
+
+ACO
+
+
+VNS
+
+
+✅ Najbolji rezultat: 11
+📌 Najbolji parametri: {'kmin': 2, 'kmax': 4, 'pmove': 0.2, 'itermax': 5}
+📌 Vrijeme: 10.053147554397583

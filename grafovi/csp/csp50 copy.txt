@@ -9,3 +9,18 @@ Vrijeme  4.552144289016724
 
 ACO
 losak 45 odma skoro
+
+
+GA rand
+✅ Najbolji rezultat: 9
+📌 Najbolji parametri: {'stop': 7, 'pop_size': 20, 'mutation_rate': 0.1, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 2.0455338954925537
+
+ACO
+NP
+
+VNS
+
+✅ Najbolji rezultat: 8
+📌 Najbolji parametri: {'kmin': 1, 'kmax': 4, 'pmove': 0.2, 'itermax': 5}
+📌 Vrijeme: 0.480424165725708

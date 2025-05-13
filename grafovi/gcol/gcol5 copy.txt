@@ -19,3 +19,21 @@ Vrijeme  5.198507308959961
 ACO 10 iter
 Optimalni rešavajući skup: {5, 8, 43, 13, 47, 50, 52, 21, 88, 61} velicine: 10
 Vrijeme  9.12063980102539
+
+
+GA Random
+✅ Najbolji rezultat: 9
+📌 Najbolji parametri: {'stop': 5, 'pop_size': 20, 'mutation_rate': 0.2, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 9.408701658248901
+
+
+ACO
+✅ Najbolji rezultat: 9
+📌 Najbolji parametri: {'alpha': 1, 'beta': 2, 'evaporation': 0.4, 'Q': 50, 'num_ants': 30, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 1.904677391052246
+
+
+VNS
+✅ Najbolji rezultat: 8
+📌 Najbolji parametri: {'kmin': 2, 'kmax': 4, 'pmove': 0.2, 'itermax': 5}
+📌 Vrijeme: 8.866944313049316
