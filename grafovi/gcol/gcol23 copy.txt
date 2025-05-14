@@ -21,3 +21,13 @@ Iteracija 1, najbolji skup {128, 89, 98, 8, 266, 171, 144, 49, 18, 23, 216, 281}
 Iteracija 2, najbolji skup {128, 89, 98, 8, 266, 171, 144, 49, 18, 23, 216, 281}
 Iteracija 3, najbolji skup {128, 89, 98, 8, 266, 171, 144, 49, 18, 23, 216, 281}
 🔁 Rezultat: 12 | ⏱️ Vrijeme: 21.83 sekundi
+
+ACO
+Testing: {'alpha': 0.5, 'beta': 10, 'evaporation': 0.7, 'Q': 50, 'num_ants': 40, 'num_iterations': 30, 'stop': 3}
+Optimalni rješavajući skup: {35, 261, 230, 133, 198, 75, 204, 49, 242, 52, 149, 184, 153} velicine: 13
+🔁 Rezultat: 13 | ⏱️ Vrijeme: 89.33 sekundi {35, 261, 230, 133, 198, 75, 204, 49, 242, 52, 149, 184, 153}
+
+GA
+
+Optimalni rješavajući skup: {224, 65, 4, 36, 294, 137, 111, 51, 243, 245, 54, 277, 90} 13
+🔁 Rezultat: 13 | ⏱️ Vrijeme: 73.45 sekundi

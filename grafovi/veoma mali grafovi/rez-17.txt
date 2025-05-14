@@ -54,6 +54,6 @@ ACO
 📌 Vrijeme: 0.014541864395141602
 
 VNS
-✅ Najbolji rezultat: 3
+✅ Najbolji rezultat: 2
 📌 Najbolji parametri: {'kmin': 2, 'kmax': 4, 'pmove': 0.2, 'itermax': 3}
 📌 Vrijeme: 0.03171515464782715

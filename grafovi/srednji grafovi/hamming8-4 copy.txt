@@ -17,10 +17,13 @@ Vrijeme  167.20986485481262
 
 GA
 
-
+Optimalni rješavajući skup: {129, 133, 9, 138, 20, 149, 151, 152, 41, 43, 54, 57, 60, 62, 71, 201, 102, 240, 241} 19
+🔁 Rezultat: 19 | ⏱️ Vrijeme: 121.29 sekundi
 
 ACO
-
+✅ Najbolji rezultat: 17
+📌 Najbolji parametri: {'alpha': 1, 'beta': 3, 'evaporation': 0.3, 'Q': 50, 'num_ants': 20, 'num_iterations': 30, 'stop': 4}
+📌 Vrijeme: 60.927964210510254
 
 VNS
 

@@ -28,3 +28,12 @@ Iteracija 2, najbolji skup {1, 2, 3, 4, 5, 233, 41, 268, 13, 20, 151, 62}
 Iteracija 3, najbolji skup {1, 2, 3, 4, 5, 233, 41, 268, 13, 20, 151, 62}
 🔁 Rezultat: 12 | ⏱️ Vrijeme: 17.30 sekundi
 
+
+ACO
+13 vrijeme 45
+
+GA
+
+✅ Najbolji rezultat: 14
+📌 Najbolji parametri: {'stop': 3, 'pop_size': 20, 'mutation_rate': 0.2, 'crossover_rate': 0.6, 'generations': 50}
+📌 Vrijeme: 52.436660289764404

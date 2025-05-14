@@ -19,6 +19,9 @@ GA
 📌 Vrijeme: 74.51930260658264
 ACO
 
+✅ Najbolji rezultat: 14
+📌 Najbolji parametri: {'alpha': 1, 'beta': 3, 'evaporation': 0.3, 'Q': 50, 'num_ants': 30, 'num_iterations': 30, 'stop': 4}
+📌 Vrijeme: 14.539677619934082
 
 VNS
 

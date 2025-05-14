@@ -19,6 +19,9 @@ GA rand
 
 ACO
 
+✅ Najbolji rezultat: 16
+📌 Najbolji parametri: {'alpha': 0.5, 'beta': 5, 'evaporation': 0.5, 'Q': 50, 'num_ants': 35, 'num_iterations': 30, 'stop': 6}
+📌 Vrijeme: 61.79370975494385
 
 VNS
 

@@ -17,7 +17,10 @@ GA rand
 📌 Najbolji parametri: {'stop': 3, 'pop_size': 20, 'mutation_rate': 0.1, 'crossover_rate': 0.6, 'generations': 50}
 📌 Vrijeme: 37.42731332778931
 
-ACO
+ACO bez heuristika 
+✅ Najbolji rezultat: 20
+📌 Najbolji parametri: {'alpha': 1, 'beta': 10, 'evaporation': 0.5, 'Q': 50, 'num_ants': 20, 'num_iterations': 30, 'stop': 4}
+📌 Vrijeme: 12.155641794204712
 
 
 VNS

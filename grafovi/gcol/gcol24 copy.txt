@@ -16,3 +16,14 @@ VNS
 
 Iteracija 3, najbolji skup {66, 4, 228, 6, 103, 71, 9, 72, 140, 10, 75, 8}
 🔁 Rezultat: 12 | ⏱️ Vrijeme: 15.56 sekundi
+
+
+ACO
+✅ Najbolji rezultat: 13
+📌 Najbolji parametri: {'alpha': 1, 'beta': 10, 'evaporation': 0.7, 'Q': 50, 'num_ants': 40, 'num_iterations': 30, 'stop': 3}
+📌 Vrijeme: 66.12148809432983
+
+GA
+
+Optimalni rješavajući skup: {32, 130, 292, 230, 172, 77, 16, 17, 80, 146, 176, 272, 29, 222} 14
+🔁 Rezultat: 14 | ⏱️ Vrijeme: 74.52 sekundi
